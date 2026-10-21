@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scverse/scverse-doc/commit/11308278ecb1738800c0c22d14637772ea5cd239",
       "git:hexsha": "11308278ecb1738800c0c22d14637772ea5cd239",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.4",
+      "repolex:parsedAt": "2026-10-21T20:31:24.615129+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/scverse-doc/commit/ff29ad0be676c072662c1c6ebe83e84a66f859f3",
